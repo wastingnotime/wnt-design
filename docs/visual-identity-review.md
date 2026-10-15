@@ -11,6 +11,7 @@ Coordination: [WNT — Visual Identity & Product Attribution](https://linear.app
 Green is the current WNT direction. Purple belongs to the earlier identity.
 The selected mark is **Forward W**, recorded in [WNT-160 selection](wnt-160-logo-selection.md).
 The hourglass/arrow exploration and imported hourglass assets are historical references.
+Imported artwork is cataloged in the [historical archive](../assets/archive/pre-forward-w/README.md).
 
 WNT channels share the selected mark and identity. Products may keep their own colors, typography, logo and tone. A small linked “made by WNT” signature connects those products to the parent identity; a monochrome variant should fit the product palette. Localize the signature where appropriate. Product identity remains primary.
 

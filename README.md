@@ -6,6 +6,9 @@ This repository owns semantic design tokens, visual foundations, motion definiti
 
 ## Identity kit
 
+See the [asset directory](assets/README.md) for current assets, explorations and
+the historical archive.
+
 Current identity: **Forward W v1.0.0**, selected in WNT-160.
 
 - [Usage, maker signature and consumer adoption](docs/identity/README.md)
