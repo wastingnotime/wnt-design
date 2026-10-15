@@ -40,4 +40,7 @@ Local source evidence is not proof of deployed metadata. Mobile layouts, measure
 2. WNT-161–165: apply the approved kit to the five surfaces. Each task is blocked by WNT-160 and contains its repository/surface handoff and acceptance criteria.
 3. WNT-166: review the deployed set together, including mobile, avatar/banner crops, localization, accessibility, metadata, cross-links and asset versions.
 
+The [deployed verification record](deployed-identity-verification.md) tracks
+WNT-166 readiness, evidence requirements and the final acceptance checklist.
+
 The Linear project is the coordination record requested for this review. No live branding was changed during the review. Android app restyling and reuploading historical videos are outside this site's attribution rollout.
