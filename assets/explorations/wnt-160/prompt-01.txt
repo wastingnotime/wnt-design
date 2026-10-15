@@ -1,0 +1,11 @@
+Use case: logo-brand
+Asset type: WNT logo concept comparison board, exploratory design for user selection, not production masters.
+Create a polished flat graphic design board, landscape, with three equally sized columns on a warm off-white background. Title "WNT / symbol explorations" and small subtitle "01 — concepts, not approved".
+Brand: Wasting No Time, an independent software maker with several products. Established color direction: fresh mint green #9cffaa on near-black #101813; monochrome dark on cream. Simple, confident, quiet, distinctive. No gradients, shadows, 3D, stock mockups or fine details.
+Each column shows a DISTINCT original concept, exactly consistent in its repetitions within that column:
+A / "Time into motion": a bold simplified hourglass with a subtle forward arrow integrated through negative space, preserve the idea of time but eliminate thin outlines and sand details. Compact single-color silhouette.
+B / "Forward W": a custom bold folded W symbol with a subtly rising forward terminal, a distinctive compact single-color silhouette, no clock or hourglass. Avoid resemblance to a stock fast-forward/play icon.
+C / "Maker monogram": a geometric compact WN monogram, integrated strokes, robust open negative space, no enclosing box, no clock or hourglass; recognizable silhouette that can be recreated as SVG.
+For each column display: large mint symbol centered on a near-black circle (avatar); below a slim near-black website header with the SAME smaller mint mark and text "WNT / community lab"; below a cream product footer context with product heading "Sliding Tasks" in large rust type and a deliberately much smaller monochrome maker line "made by WNT" alongside the SAME symbol. Product heading must dominate endorsement.
+Bottom row each column: same mark dark on white and white on dark, small but clearly visible, not pretending to be actual 16px testing.
+Precise balanced grid, generous whitespace, refined sans-serif type, minimalist editorial design. The board is for comparing geometry and hierarchy, not finished website design. All text concise and spelled correctly.
