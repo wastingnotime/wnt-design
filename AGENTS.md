@@ -29,6 +29,7 @@ This repository is a WNT-managed repository.
 - Use `wnt capability show mcp-usage` when you need MCP guidance.
 - Use `wnt capability show project-surfaces` when you need project-surface defaults.
 - Use conventional commit prefixes for committed changes.
+- Commit completed changes before finishing the task, unless the user asks to leave them uncommitted. Keep commits scoped to the work performed.
 - Keep repository-specific rules local to this repo.
 
 ## Repository Binding
