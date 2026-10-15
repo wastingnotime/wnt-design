@@ -1,0 +1,251 @@
+{
+  "version": "1.0.0",
+  "mark": "forward-w",
+  "selected_direction": "B",
+  "selection_date": "2026-10-15",
+  "parent_url": "https://wastingnotime.org/",
+  "geometry_source": "masters/mark.svg",
+  "wordmark_source": "masters/wordmark.svg",
+  "colors": {
+    "green": "#9cffaa",
+    "ink": "#101813",
+    "paper": "#fff8f3"
+  },
+  "contrast": [
+    {
+      "foreground": "#9cffaa",
+      "background": "#101813",
+      "ratio": 14.8853
+    },
+    {
+      "foreground": "#101813",
+      "background": "#fff8f3",
+      "ratio": 17.1873
+    },
+    {
+      "foreground": "#ffffff",
+      "background": "#101813",
+      "ratio": 18.0709
+    },
+    {
+      "foreground": "#645f5a",
+      "background": "#fff8f3",
+      "ratio": 6.0045
+    },
+    {
+      "foreground": "#9cffaa",
+      "background": "#fff8f3",
+      "ratio": 1.1546
+    }
+  ],
+  "tools": {
+    "renderer": "rsvg-convert version 2.52.5",
+    "pillow": "12.2.0"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2994,
+      "sha256": "074f9ba5a127ef28486acff34020f9d1c732cb6b0fa8d6d9911969f7b081b4fd"
+    },
+    {
+      "path": "exports/apple-touch-icon.png",
+      "bytes": 3854,
+      "sha256": "8741bf1c09c620f4fb908877907f48382993414f1e315769def4acfee53dc21a",
+      "pixels": [
+        180,
+        180
+      ]
+    },
+    {
+      "path": "exports/apple-touch-icon.svg",
+      "bytes": 784,
+      "sha256": "bc9ab763360ed17ff3587cc4866afec7662c0ed709edd1f136631470f2dbd7b4"
+    },
+    {
+      "path": "exports/avatar.png",
+      "bytes": 20211,
+      "sha256": "f456db90c90c83d83aaaddd46d45a033f351374406db002660bf56b9ebf49350",
+      "pixels": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "exports/avatar.svg",
+      "bytes": 780,
+      "sha256": "b1f73dd8d10e7066ee5735189d4fadb87e7a807e5b2e9b3499b9f6a9162be50b"
+    },
+    {
+      "path": "exports/end-card.png",
+      "bytes": 19584,
+      "sha256": "07da9b4a29da0930a13a62e6a174e8061c834f8508c973a3beb65757cc2c8152",
+      "pixels": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "exports/end-card.svg",
+      "bytes": 9255,
+      "sha256": "d439fea4def6d0d951edf680e24a34ecbbc8b2a106cf3e6ac12732d5b28abc01"
+    },
+    {
+      "path": "exports/favicon-16.png",
+      "bytes": 472,
+      "sha256": "2cbfa2edb97e0eda3fce6bcabe142d6d5b95075c8eaa931b0eff3f5ec01da9b8",
+      "pixels": [
+        16,
+        16
+      ]
+    },
+    {
+      "path": "exports/favicon-32.png",
+      "bytes": 833,
+      "sha256": "325a6c6d17373b78d06a22eb9cf92558d9887743699a59179229a9269ea073f9",
+      "pixels": [
+        32,
+        32
+      ]
+    },
+    {
+      "path": "exports/favicon-48.png",
+      "bytes": 1338,
+      "sha256": "11ef14c9ad892289df43e8c1bbd6e1674f6655079ede853628fc57f4473852e7",
+      "pixels": [
+        48,
+        48
+      ]
+    },
+    {
+      "path": "exports/favicon.ico",
+      "bytes": 2821,
+      "sha256": "5f0a1164b53f49fbdaa5e3b5b6c1cef2ae392cd1ff9440ee6cb0ac20ec8ac4bf",
+      "pixels": [
+        48,
+        48
+      ]
+    },
+    {
+      "path": "exports/favicon.svg",
+      "bytes": 775,
+      "sha256": "706968b860b999a94ebc4c1dd9b4aa6adfda94e2b97c0140117c6e8f9d8c49e7"
+    },
+    {
+      "path": "exports/lockup-dark.svg",
+      "bytes": 9244,
+      "sha256": "5df0d4112070e59baa57925105594db6262cd80fb71ecb84b4c59da4fb558f08"
+    },
+    {
+      "path": "exports/lockup-light.svg",
+      "bytes": 9244,
+      "sha256": "8d83287a63f6181a5a85947ea1cedd3ef9bd4067990b895f37419cda6562b026"
+    },
+    {
+      "path": "exports/lockup-mono-dark.svg",
+      "bytes": 9185,
+      "sha256": "fb7e7e666ffc22326efc5401185da6b53d09db9fa5cb9f599c55c037ec089dba"
+    },
+    {
+      "path": "exports/lockup-mono-white.svg",
+      "bytes": 9185,
+      "sha256": "7dfc94da2eb53a1a506f33d1ec6ea1c941f5dda5c9fa68ff0727a2d1335ab423"
+    },
+    {
+      "path": "exports/mark-black.svg",
+      "bytes": 713,
+      "sha256": "3df681befaceab73739e3f414efdb0536d211c55e04eefa2aed987e3de404f35"
+    },
+    {
+      "path": "exports/mark-dark.svg",
+      "bytes": 713,
+      "sha256": "ded2a636f42a1a06bc7d5f76653dea7bedff4f87133aa8253becdacdd8fc6ccb"
+    },
+    {
+      "path": "exports/mark-green.svg",
+      "bytes": 713,
+      "sha256": "6adc102236a0b4ef8263dd79b40514e6a2ca6e6d33755dd4d2bf14dc2f2da504"
+    },
+    {
+      "path": "exports/mark-white.svg",
+      "bytes": 713,
+      "sha256": "fadb65cbac0c84e5c5da8bd7771a559db56293d0ac198b159c1ed7d7b4ec1a61"
+    },
+    {
+      "path": "exports/social.png",
+      "bytes": 28145,
+      "sha256": "79481210d125363cd356c32550bf88ec1ebd3a97fd61da4e51ce77e1fc8c82af",
+      "pixels": [
+        1200,
+        630
+      ]
+    },
+    {
+      "path": "exports/social.svg",
+      "bytes": 9253,
+      "sha256": "b1d755827c52bca82159f6c9cb5e2436ee24393edf9b0ced9d769e318f1d2460"
+    },
+    {
+      "path": "exports/thumbnail-signature.svg",
+      "bytes": 1870,
+      "sha256": "7c40ec1df3c05943c9513460a59d04b2d8156ef9f69b609daade6888b91d9672"
+    },
+    {
+      "path": "exports/video-watermark-dark.png",
+      "bytes": 3420,
+      "sha256": "09b08b0b610e6e9575b2a26c1ae62263ea2b53130917ac569872144aee995947",
+      "pixels": [
+        150,
+        150
+      ]
+    },
+    {
+      "path": "exports/video-watermark-dark.svg",
+      "bytes": 720,
+      "sha256": "5bc18655478dbbfdb8624713979d024c303b9219624c4a16e5ef71b5a580a0d1"
+    },
+    {
+      "path": "exports/video-watermark.png",
+      "bytes": 2579,
+      "sha256": "85907f67f54c218dc58e3be114ec35c9f61220d56f069504ef301496c95191c8",
+      "pixels": [
+        150,
+        150
+      ]
+    },
+    {
+      "path": "exports/video-watermark.svg",
+      "bytes": 720,
+      "sha256": "79169f9e4ad2d8d78606008313b612e07db907d92efe37ab879c74a0c3f94c3c"
+    },
+    {
+      "path": "exports/youtube-banner.png",
+      "bytes": 39597,
+      "sha256": "8a41d5b24189923112fddc396f56d974154727f96b2d3f9fc9ba6d2c6542d3fd",
+      "pixels": [
+        2560,
+        1440
+      ]
+    },
+    {
+      "path": "exports/youtube-banner.svg",
+      "bytes": 9257,
+      "sha256": "e4da0636fdfa35f6f57c8f986aab352cffcc65057a86023d6b6a6d80ec0e078c"
+    },
+    {
+      "path": "masters/initials.svg",
+      "bytes": 1069,
+      "sha256": "5cc5cd420df5ee8ce36b19b6354577674758a473eca35980d9597ee28073a3d6"
+    },
+    {
+      "path": "masters/mark.svg",
+      "bytes": 462,
+      "sha256": "be9027c2e73053bcf95465e47979f07967f2cfd893da16e04adc43b7758f983d"
+    },
+    {
+      "path": "masters/wordmark.svg",
+      "bytes": 7853,
+      "sha256": "d0cd261b3faa232a5bf0495bf972a30840365b90b1c41f61864cc005fca514c2"
+    }
+  ]
+}

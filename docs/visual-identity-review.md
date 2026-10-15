@@ -1,12 +1,16 @@
 # WNT visual identity review
 
-Reviewed 2026-10-15. Status: reviewed and planned; final logo selection and rollout remain open.
+Initial review: 2026-10-15. The findings below describe the pre-rollout baseline.
+Update: Henrique selected **B — Forward W**; the [v1.0.0 kit](identity/README.md)
+is available with local validation. Consumer rollout remains open.
 
 Coordination: [WNT — Visual Identity & Product Attribution](https://linear.app/wastingnotime/project/wnt-visual-identity-and-product-attribution-4019f7abeeb8), WastingNoTime team.
 
 ## Direction
 
-Green is the current WNT direction. Purple belongs to the earlier identity. The generated hourglass/arrow is a concept, not a selected production logo. Evaluate fresh concepts for both a prominent channel avatar and a discreet maker signature before selecting one.
+Green is the current WNT direction. Purple belongs to the earlier identity.
+The selected mark is **Forward W**, recorded in [WNT-160 selection](wnt-160-logo-selection.md).
+The hourglass/arrow exploration and imported hourglass assets are historical references.
 
 WNT channels share the selected mark and identity. Products may keep their own colors, typography, logo and tone. A small linked “made by WNT” signature connects those products to the parent identity; a monochrome variant should fit the product palette. Localize the signature where appropriate. Product identity remains primary.
 
