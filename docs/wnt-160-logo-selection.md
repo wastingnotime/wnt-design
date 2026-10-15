@@ -1,7 +1,7 @@
 # WNT-160 logo selection
 
 Issue: [WNT-160](https://linear.app/wastingnotime/issue/WNT-160).
-Prepared 2026-10-15. Status: concept comparison; Henrique's selection is pending.
+Prepared 2026-10-15. Status: **B — Forward W selected; kit v1.0.0 produced and locally validated**.
 
 ## First exploration
 
@@ -30,8 +30,19 @@ No actual 16/32px, contrast, keyboard or crop validation has been completed here
 
 ## Selection and delivery
 
-Record Henrique's selected direction, requested refinements and rationale here
-before declaring any production asset approved. Then:
+Henrique selected **B — Forward W** on 2026-10-15: “i prefer B, is very
+distinguishable.” This supersedes the initial recommendation of A. The selected
+identity is the folded W with an ascending right terminal. Production geometry
+keeps four panels, removes generated shading, and opens the fold separations.
+
+Delivered: [identity v1.0.0](../assets/identity/v1.0.0/README.md),
+[usage rules](identity/README.md), [specimen](identity/v1.0.0-specimen.png),
+[validation evidence](identity/validation-v1.0.0.md), and a reproducible exporter.
+Consumer rollout remains in WNT-161–165; final deployed verification is WNT-166.
+
+### Original delivery checklist
+
+The following requirements guided the kit delivery:
 
 1. Construct and inspect editable SVG masters and wordmark lockups, with shared
    geometry for green-on-dark, dark-on-light and monochrome variants.
@@ -44,6 +55,5 @@ before declaring any production asset approved. Then:
 5. Publish versioned favicon/avatar/social exports with provenance and a manifest,
    plus consumer guidance and YouTube banner/thumbnail signature rules.
 
-WNT-160 remains incomplete until selection and the validated kit are delivered.
-Existing imported assets and this exploration must not be presented to rollout
-consumers as the approved kit.
+The selected versioned kit is the consumer source. Existing imported assets and
+the exploration board remain historical references, not production exports.

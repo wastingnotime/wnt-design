@@ -2,7 +2,14 @@
 
 Tracking: [WNT-166](https://linear.app/wastingnotime/issue/WNT-166).
 
-## Readiness — 2026-10-15
+## Current readiness — 2026-10-15
+
+WNT-160 has since produced the selected [Forward W v1.0.0 kit](identity/README.md)
+and [local validation](identity/validation-v1.0.0.md). The original blocker snapshot
+below is historical; identity selection and kit preparation are now resolved.
+The five surface rollouts and final deployed audit remain outstanding.
+
+## Initial readiness snapshot — 2026-10-15
 
 **Blocked on identity selection and rollout. No final verification has passed.**
 
