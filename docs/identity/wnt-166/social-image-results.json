@@ -1,0 +1,65 @@
+[
+  {
+    "surface": "community",
+    "url": "https://wastingnotime.org/identity/v1.0.0/community-lab-social.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 25963
+  },
+  {
+    "surface": "community-login",
+    "url": "https://wastingnotime.org/identity/v1.0.0/community-lab-social.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 25963
+  },
+  {
+    "surface": "community-agents",
+    "url": "https://wastingnotime.org/identity/v1.0.0/community-lab-social.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 25963
+  },
+  {
+    "surface": "wishlist",
+    "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/wishlist-social.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 26772
+  },
+  {
+    "surface": "wishlist-slash",
+    "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/wishlist-social.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 26772
+  },
+  {
+    "surface": "wishlist-privacy",
+    "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/wishlist-social.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 26772
+  },
+  {
+    "surface": "wishlist-admin",
+    "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/wishlist-social.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 26772
+  },
+  {
+    "surface": "github",
+    "url": "https://avatars.githubusercontent.com/u/146207343?s=280&v=4",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 6236
+  },
+  {
+    "surface": "youtube",
+    "url": "https://yt3.googleusercontent.com/8UDM7KPMI0FKsvAvdGKrELsAPGnetyH3HwzdsWUCFN5NWCU5ZKxq-DQXkqAOUoc_8fG1AfK9MAU=s900-c-k-c0x00ffffff-no-rj",
+    "status": 200,
+    "type": "image/jpeg",
+    "bytes": 26329
+  }
+]

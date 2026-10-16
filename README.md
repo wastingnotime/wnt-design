@@ -16,4 +16,4 @@ Current identity: **Forward W v1.0.0**, selected in WNT-160.
 - [Visual specimen](docs/identity/v1.0.0-specimen.png)
 - [Local validation](docs/identity/validation-v1.0.0.md)
 
-Consumer deployment is tracked separately in WNT-161–165 and verified in WNT-166.
+Consumer deployment was completed in WNT-161–165. The [WNT-166 deployed review](docs/deployed-identity-verification.md) records the final comparison, evidence and verification limits.

@@ -1,0 +1,569 @@
+[
+  {
+    "url": "https://wastingnotime.org/identity/v1.0.0/mark-green.svg",
+    "expected": "6adc102236a0b4ef8263dd79b40514e6a2ca6e6d33755dd4d2bf14dc2f2da504",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/identity/v1.0.0/mark-green.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "713",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:07 GMT",
+          "ETag": "\"2c9-qfuZpJlLRqCfuhtwvnvDSlRrbTs\"",
+          "Last-Modified": "Fri, 16 Oct 2026 01:05:09 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 9339a228d9a10d6d3e55cbba0af294b4.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "6wsonYjxeUCvd9EkE-IZ6hngEbXVbcRla_-LwsSfdfTPlrqs-jfPjg=="
+        },
+        "bytes": 713,
+        "sha256": "6adc102236a0b4ef8263dd79b40514e6a2ca6e6d33755dd4d2bf14dc2f2da504"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/identity/v1.0.0/mark-green.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "713",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:07 GMT",
+          "ETag": "\"2c9-qfuZpJlLRqCfuhtwvnvDSlRrbTs\"",
+          "Last-Modified": "Fri, 16 Oct 2026 01:05:09 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 7464b418a43fe0cc78ac60c720d92f7e.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "gtDu-NDBVJRui0sy35YIG08sT7SOQaeoEAwoZiFFAd6aYsNgWEslEg=="
+        },
+        "bytes": 713,
+        "sha256": "6adc102236a0b4ef8263dd79b40514e6a2ca6e6d33755dd4d2bf14dc2f2da504"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/identity/v1.0.0/favicon.svg",
+    "expected": "706968b860b999a94ebc4c1dd9b4aa6adfda94e2b97c0140117c6e8f9d8c49e7",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/identity/v1.0.0/favicon.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "775",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:08 GMT",
+          "ETag": "\"307-v7T1gS0+5GJ5iLjL0jZA9VYHBx4\"",
+          "Last-Modified": "Fri, 16 Oct 2026 01:05:09 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 d9e316bb8a377e2b8eb3943ae90890a0.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "9wH7LOIQUBERdMgM5EEBznB8AIBCaoGJ_jiDKlaaqnDOBwgqhRB6hw=="
+        },
+        "bytes": 775,
+        "sha256": "706968b860b999a94ebc4c1dd9b4aa6adfda94e2b97c0140117c6e8f9d8c49e7"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/identity/v1.0.0/favicon.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "775",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:08 GMT",
+          "ETag": "\"307-v7T1gS0+5GJ5iLjL0jZA9VYHBx4\"",
+          "Last-Modified": "Fri, 16 Oct 2026 01:05:09 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 ee75bece8709937b15cce24c063aa0b4.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "zZsEjWaLDXTOkZCmrieFXvft72pcFspvVwlXBwPGlOS1f_lPOiml4A=="
+        },
+        "bytes": 775,
+        "sha256": "706968b860b999a94ebc4c1dd9b4aa6adfda94e2b97c0140117c6e8f9d8c49e7"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/identity/v1.0.0/favicon.ico",
+    "expected": "5f0a1164b53f49fbdaa5e3b5b6c1cef2ae392cd1ff9440ee6cb0ac20ec8ac4bf",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/identity/v1.0.0/favicon.ico",
+        "headers": {
+          "Content-Type": "image/vnd.microsoft.icon",
+          "Content-Length": "2821",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:09 GMT",
+          "ETag": "\"b05-3UmQhQr2YWEtr2NUwTh0veru3Q0\"",
+          "Last-Modified": "Fri, 16 Oct 2026 01:05:09 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 7464b418a43fe0cc78ac60c720d92f7e.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "OIumeVJvcup83NXsCCmiCqFgPxQ5XE64xMzTuAvoJWSL9dow3eFjeQ=="
+        },
+        "bytes": 2821,
+        "sha256": "5f0a1164b53f49fbdaa5e3b5b6c1cef2ae392cd1ff9440ee6cb0ac20ec8ac4bf"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/identity/v1.0.0/favicon.ico",
+        "headers": {
+          "Content-Type": "image/vnd.microsoft.icon",
+          "Content-Length": "2821",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:09 GMT",
+          "ETag": "\"b05-3UmQhQr2YWEtr2NUwTh0veru3Q0\"",
+          "Last-Modified": "Fri, 16 Oct 2026 01:05:09 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 9339a228d9a10d6d3e55cbba0af294b4.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "LuEwjE2mC3urjj_M_FMX28zyKUr-iYNo8SesQlZh0eUlNb8v67tO0w=="
+        },
+        "bytes": 2821,
+        "sha256": "5f0a1164b53f49fbdaa5e3b5b6c1cef2ae392cd1ff9440ee6cb0ac20ec8ac4bf"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/identity/v1.0.0/apple-touch-icon.png",
+    "expected": "8741bf1c09c620f4fb908877907f48382993414f1e315769def4acfee53dc21a",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/identity/v1.0.0/apple-touch-icon.png",
+        "headers": {
+          "Content-Type": "image/png",
+          "Content-Length": "3854",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:09 GMT",
+          "ETag": "\"f0e-bwEriksJKAHmKs+sik96S6jszkA\"",
+          "Last-Modified": "Fri, 16 Oct 2026 01:05:09 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 758f137c1e74bafb655da45f261644e0.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "X-pZ7UM11MT3iocqEOmyMujeQNGRBXcXaadiEi7mrpczKsxf00FWIA=="
+        },
+        "bytes": 3854,
+        "sha256": "8741bf1c09c620f4fb908877907f48382993414f1e315769def4acfee53dc21a"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/identity/v1.0.0/apple-touch-icon.png",
+        "headers": {
+          "Content-Type": "image/png",
+          "Content-Length": "3854",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:10 GMT",
+          "ETag": "\"f0e-bwEriksJKAHmKs+sik96S6jszkA\"",
+          "Last-Modified": "Fri, 16 Oct 2026 01:05:09 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 1c68470b3fc9639e0703d88f39af32fc.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "omxSnYgnNXU9obUe6_2KC8HT_OD9XjxCpvswaRU7xOHY5_fw0tq0ew=="
+        },
+        "bytes": 3854,
+        "sha256": "8741bf1c09c620f4fb908877907f48382993414f1e315769def4acfee53dc21a"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/identity/v1.0.0/community-lab-social.png",
+    "expected": "8c3a09c2105c41debaf1b52c44c700650b3d626bf6e033818019cfee1b7338ca",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/identity/v1.0.0/community-lab-social.png",
+        "headers": {
+          "Content-Type": "image/png",
+          "Content-Length": "25963",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:10 GMT",
+          "ETag": "\"656b-PcTTgyBQ0kGtNH2gPS7SO/i4fzo\"",
+          "Last-Modified": "Fri, 16 Oct 2026 01:05:09 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 758f137c1e74bafb655da45f261644e0.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "vXEU_D9EVzIDo7kkghGf8inThvvYwGH4uWhvmrIj5aVTOEbrx3ujbg=="
+        },
+        "bytes": 25963,
+        "sha256": "8c3a09c2105c41debaf1b52c44c700650b3d626bf6e033818019cfee1b7338ca"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/identity/v1.0.0/community-lab-social.png",
+        "headers": {
+          "Content-Type": "image/png",
+          "Content-Length": "25963",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:11 GMT",
+          "ETag": "\"656b-PcTTgyBQ0kGtNH2gPS7SO/i4fzo\"",
+          "Last-Modified": "Fri, 16 Oct 2026 01:05:09 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 758f137c1e74bafb655da45f261644e0.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "mBEuU61xPHrocH17oJAv1WC9y6uCm5pz2ksIZ1DIDJTiKT7rjIw3_w=="
+        },
+        "bytes": 25963,
+        "sha256": "8c3a09c2105c41debaf1b52c44c700650b3d626bf6e033818019cfee1b7338ca"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/mark-green.svg",
+    "expected": "6adc102236a0b4ef8263dd79b40514e6a2ca6e6d33755dd4d2bf14dc2f2da504",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/mark-green.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "713",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:11 GMT",
+          "Etag": "\"2c9-qfuZpJlLRqCfuhtwvnvDSlRrbTs\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 95f91b024a4f400e872dea15cb24d436.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "06i1Eh2e9ElpAiCh2SFaqwd1ni3gjIQsSdBC3yvaY_UJgVNDd0ihrQ=="
+        },
+        "bytes": 713,
+        "sha256": "6adc102236a0b4ef8263dd79b40514e6a2ca6e6d33755dd4d2bf14dc2f2da504"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/mark-green.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "713",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:11 GMT",
+          "Etag": "\"2c9-qfuZpJlLRqCfuhtwvnvDSlRrbTs\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 c65b18563ee217b1940e9a2a1550057a.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "qja6YBiTXTJxKkzy_jIxl-8lWJaEiIrBXYTIHIQIQ_2g1VRig-H8qQ=="
+        },
+        "bytes": 713,
+        "sha256": "6adc102236a0b4ef8263dd79b40514e6a2ca6e6d33755dd4d2bf14dc2f2da504"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/favicon.svg",
+    "expected": "706968b860b999a94ebc4c1dd9b4aa6adfda94e2b97c0140117c6e8f9d8c49e7",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/favicon.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "775",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:12 GMT",
+          "Etag": "\"307-v7T1gS0+5GJ5iLjL0jZA9VYHBx4\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 6f6f436eab44bb673af05687b1ab038e.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "ljzwbtGHZ6ZI1ofWJCMUEF9PYqrbFxd96Qzr8Q8ZiQ_cz2-FlKV_nA=="
+        },
+        "bytes": 775,
+        "sha256": "706968b860b999a94ebc4c1dd9b4aa6adfda94e2b97c0140117c6e8f9d8c49e7"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/favicon.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "775",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:12 GMT",
+          "Etag": "\"307-v7T1gS0+5GJ5iLjL0jZA9VYHBx4\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 7464b418a43fe0cc78ac60c720d92f7e.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "_0UYh8z2ZLlwkLqXbkmJdqMXAl3nQVCVXWb-cNObfQNVm67__zY08w=="
+        },
+        "bytes": 775,
+        "sha256": "706968b860b999a94ebc4c1dd9b4aa6adfda94e2b97c0140117c6e8f9d8c49e7"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/favicon.ico",
+    "expected": "5f0a1164b53f49fbdaa5e3b5b6c1cef2ae392cd1ff9440ee6cb0ac20ec8ac4bf",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/favicon.ico",
+        "headers": {
+          "Content-Type": "image/vnd.microsoft.icon",
+          "Content-Length": "2821",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:12 GMT",
+          "Etag": "\"b05-3UmQhQr2YWEtr2NUwTh0veru3Q0\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 b2c24be324c776763aee521d2557d334.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "fwQR01ZcGs2fk6eAwcgCiB0eS61phOKRE0mkzLGVeve900N5Ccx3eQ=="
+        },
+        "bytes": 2821,
+        "sha256": "5f0a1164b53f49fbdaa5e3b5b6c1cef2ae392cd1ff9440ee6cb0ac20ec8ac4bf"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/favicon.ico",
+        "headers": {
+          "Content-Type": "image/vnd.microsoft.icon",
+          "Content-Length": "2821",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:13 GMT",
+          "Etag": "\"b05-3UmQhQr2YWEtr2NUwTh0veru3Q0\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 e650545b544c95ecfe4fff710d96d26e.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "V7QVKKHAmLP0Cuat24YuNmxP3h47z3fNEADEqqmTaORe0ZBXfyuZww=="
+        },
+        "bytes": 2821,
+        "sha256": "5f0a1164b53f49fbdaa5e3b5b6c1cef2ae392cd1ff9440ee6cb0ac20ec8ac4bf"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/favicon-32.png",
+    "expected": "325a6c6d17373b78d06a22eb9cf92558d9887743699a59179229a9269ea073f9",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/favicon-32.png",
+        "headers": {
+          "Content-Type": "image/png",
+          "Content-Length": "833",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:13 GMT",
+          "Etag": "\"341-9rtWn43ExAziacisjh7bnw9huTQ\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 d9e316bb8a377e2b8eb3943ae90890a0.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "-AqhZYaJflZ5U4BU0MFr4414CIXQl3VyCFiEd2REuxXteLZE6ymygA=="
+        },
+        "bytes": 833,
+        "sha256": "325a6c6d17373b78d06a22eb9cf92558d9887743699a59179229a9269ea073f9"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/favicon-32.png",
+        "headers": {
+          "Content-Type": "image/png",
+          "Content-Length": "833",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:14 GMT",
+          "Etag": "\"341-9rtWn43ExAziacisjh7bnw9huTQ\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 5ca06d84474bdcae5c38959f6679f812.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "uy-OKqcuv9nxzbACq3clyiq4FeJqXI7nmtq8cNGfF6tbhZczVFpdeQ=="
+        },
+        "bytes": 833,
+        "sha256": "325a6c6d17373b78d06a22eb9cf92558d9887743699a59179229a9269ea073f9"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/apple-touch-icon.png",
+    "expected": "8741bf1c09c620f4fb908877907f48382993414f1e315769def4acfee53dc21a",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/apple-touch-icon.png",
+        "headers": {
+          "Content-Type": "image/png",
+          "Content-Length": "3854",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:14 GMT",
+          "Etag": "\"f0e-bwEriksJKAHmKs+sik96S6jszkA\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 758f137c1e74bafb655da45f261644e0.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "amnDXp5SPve9At5akaTYGvPxHeWYJ7CyAIDy5NH4KP4YzsTRYwrvGQ=="
+        },
+        "bytes": 3854,
+        "sha256": "8741bf1c09c620f4fb908877907f48382993414f1e315769def4acfee53dc21a"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/apple-touch-icon.png",
+        "headers": {
+          "Content-Type": "image/png",
+          "Content-Length": "3854",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:14 GMT",
+          "Etag": "\"f0e-bwEriksJKAHmKs+sik96S6jszkA\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 f9c96818c2deb941a6a5b1650cb8c5b8.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "s-pYOVNonXUxZSrZSrBClJVrYfmiPwx7Qud5H_6oZgHFF-i00l7wZQ=="
+        },
+        "bytes": 3854,
+        "sha256": "8741bf1c09c620f4fb908877907f48382993414f1e315769def4acfee53dc21a"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/wishlist-social.png",
+    "expected": "1fe7fa423b6cb95f5d42bb8adc331727f6d4f5ad1a04195d9bc30e7df7003350",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/wishlist-social.png",
+        "headers": {
+          "Content-Type": "image/png",
+          "Content-Length": "26772",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:14 GMT",
+          "Etag": "\"6894-TI277tZWPDb8Ql/b+iQGw0iLh74\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 b586b909c6ee6f620a38f6e72ae31a74.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "K9POcA1a1F1kZzlBxJ2A4877n_t2Pbg6yeRMaFMYjpS7j-LH9Wz0rw=="
+        },
+        "bytes": 26772,
+        "sha256": "1fe7fa423b6cb95f5d42bb8adc331727f6d4f5ad1a04195d9bc30e7df7003350"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/wishlist/identity/v1.0.0/wishlist-social.png",
+        "headers": {
+          "Content-Type": "image/png",
+          "Content-Length": "26772",
+          "Connection": "close",
+          "Date": "Fri, 16 Oct 2026 10:59:15 GMT",
+          "Etag": "\"6894-TI277tZWPDb8Ql/b+iQGw0iLh74\"",
+          "Last-Modified": "Fri, 16 Oct 2026 00:49:00 GMT",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 dc118e47c2109dcf2074f487a7689064.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "_p5iAcwP-eoNVM_QEzDnMD5pytkk5KjY_XVZPVxfPLXHLxemlSMSNw=="
+        },
+        "bytes": 26772,
+        "sha256": "1fe7fa423b6cb95f5d42bb8adc331727f6d4f5ad1a04195d9bc30e7df7003350"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/sliding-tasks/favicon.svg",
+    "expected": "69319e7a5485c10adaa7e8283a72da9746783b4e52c3a20df35cd0da2fbc4866",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/sliding-tasks/favicon.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "425",
+          "Connection": "close",
+          "Accept-Ranges": "bytes",
+          "Date": "Fri, 16 Oct 2026 10:59:15 GMT",
+          "ETag": "\"6ad16809-1a9\"",
+          "Last-Modified": "Thu, 15 Oct 2026 23:55:53 GMT",
+          "Server": "nginx/1.31.3",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 7464b418a43fe0cc78ac60c720d92f7e.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "8b4XBT3uah_98O2K8VvS01Y4pSbGJu7bgMAgLKeEAAJmCbyHSKEA8g=="
+        },
+        "bytes": 425,
+        "sha256": "69319e7a5485c10adaa7e8283a72da9746783b4e52c3a20df35cd0da2fbc4866"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/sliding-tasks/favicon.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "425",
+          "Connection": "close",
+          "Accept-Ranges": "bytes",
+          "Date": "Fri, 16 Oct 2026 10:59:15 GMT",
+          "ETag": "\"6ad16809-1a9\"",
+          "Last-Modified": "Thu, 15 Oct 2026 23:55:53 GMT",
+          "Server": "nginx/1.31.3",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 f6c8c478dd3608f0282e91b3bacfece4.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "offcdKsYx2Cs61w8zxwC5qJgUITMLd6yQUnpoFzWd-XgsahsSlF8MQ=="
+        },
+        "bytes": 425,
+        "sha256": "69319e7a5485c10adaa7e8283a72da9746783b4e52c3a20df35cd0da2fbc4866"
+      }
+    ]
+  },
+  {
+    "url": "https://wastingnotime.org/sliding-tasks/assets/wnt-forward-w-v1.0.0-muted.svg",
+    "expected": "f9676ecbfc5d94f8fb37fc2b736c05c6877ec4bb0ae91098d7db97828c2ea72a",
+    "matches": true,
+    "samples": [
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/sliding-tasks/assets/wnt-forward-w-v1.0.0-muted.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "713",
+          "Connection": "close",
+          "Accept-Ranges": "bytes",
+          "Date": "Fri, 16 Oct 2026 10:59:16 GMT",
+          "ETag": "\"6ad16809-2c9\"",
+          "Last-Modified": "Thu, 15 Oct 2026 23:55:53 GMT",
+          "Server": "nginx/1.31.3",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 6f6f436eab44bb673af05687b1ab038e.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "2Nxdm0jyDtlQbyhPD362w49UHYYOSyOEeSbirOK10Q9gpB3r4qTAyA=="
+        },
+        "bytes": 713,
+        "sha256": "f9676ecbfc5d94f8fb37fc2b736c05c6877ec4bb0ae91098d7db97828c2ea72a"
+      },
+      {
+        "status": 200,
+        "url": "https://wastingnotime.org/sliding-tasks/assets/wnt-forward-w-v1.0.0-muted.svg",
+        "headers": {
+          "Content-Type": "image/svg+xml",
+          "Content-Length": "713",
+          "Connection": "close",
+          "Accept-Ranges": "bytes",
+          "Date": "Fri, 16 Oct 2026 10:59:16 GMT",
+          "ETag": "\"6ad16809-2c9\"",
+          "Last-Modified": "Thu, 15 Oct 2026 23:55:53 GMT",
+          "Server": "nginx/1.31.3",
+          "X-Cache": "Miss from cloudfront",
+          "Via": "1.1 758f137c1e74bafb655da45f261644e0.cloudfront.net (CloudFront)",
+          "X-Amz-Cf-Pop": "GRU3-P12",
+          "X-Amz-Cf-Id": "mOs1rf8OJ17zvB-WYMbr_Sxz8uURLEfgbTHLuKFk0dNgFe3MWDCX7Q=="
+        },
+        "bytes": 713,
+        "sha256": "f9676ecbfc5d94f8fb37fc2b736c05c6877ec4bb0ae91098d7db97828c2ea72a"
+      }
+    ]
+  }
+]

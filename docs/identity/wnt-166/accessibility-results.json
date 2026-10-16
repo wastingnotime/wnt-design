@@ -1,0 +1,638 @@
+[
+  {
+    "url": "https://wastingnotime.org/",
+    "data": [
+      {
+        "text": "Community Lab\nWasting No Time",
+        "color": "rgb(156, 255, 170)",
+        "background": "rgba(5, 7, 6, 0.7)",
+        "ratio": 16.641142539060805,
+        "name": "Wasting No Time — Community Lab",
+        "rect": {
+          "x": 16,
+          "y": 13.5,
+          "width": 186.75,
+          "height": 48,
+          "top": 13.5,
+          "right": 202.75,
+          "bottom": 61.5,
+          "left": 16
+        }
+      },
+      {
+        "text": "explore",
+        "color": "rgb(156, 255, 170)",
+        "background": "rgba(5, 7, 6, 0.7)",
+        "ratio": 16.641142539060805,
+        "name": null,
+        "rect": {
+          "x": 237.234375,
+          "y": 25.5,
+          "width": 43.671875,
+          "height": 24,
+          "top": 25.5,
+          "right": 280.90625,
+          "bottom": 49.5,
+          "left": 237.234375
+        }
+      },
+      {
+        "text": "access status",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgba(5, 7, 6, 0.7)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 292.90625,
+          "y": 25.5,
+          "width": 81.09375,
+          "height": 24,
+          "top": 25.5,
+          "right": 374,
+          "bottom": 49.5,
+          "left": 292.90625
+        }
+      },
+      {
+        "text": "community lab",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 28,
+          "y": 2020.84375,
+          "width": 334,
+          "height": 12,
+          "top": 2020.84375,
+          "right": 362,
+          "bottom": 2032.84375,
+          "left": 28
+        }
+      },
+      {
+        "text": "built for useful knowledge, not popularity.",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 28,
+          "y": 2056.84375,
+          "width": 334,
+          "height": 12,
+          "top": 2056.84375,
+          "right": 362,
+          "bottom": 2068.84375,
+          "left": 28
+        }
+      },
+      {
+        "text": "blog",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 28,
+          "y": 2092.84375,
+          "width": 29.109375,
+          "height": 24,
+          "top": 2092.84375,
+          "right": 57.109375,
+          "bottom": 2116.84375,
+          "left": 28
+        }
+      },
+      {
+        "text": "github",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 71.109375,
+          "y": 2092.84375,
+          "width": 43.65625,
+          "height": 24,
+          "top": 2092.84375,
+          "right": 114.765625,
+          "bottom": 2116.84375,
+          "left": 71.109375
+        }
+      },
+      {
+        "text": "youtube",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 128.765625,
+          "y": 2092.84375,
+          "width": 50.9375,
+          "height": 24,
+          "top": 2092.84375,
+          "right": 179.703125,
+          "bottom": 2116.84375,
+          "left": 128.765625
+        }
+      },
+      {
+        "text": "wishlist",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 193.703125,
+          "y": 2092.84375,
+          "width": 58.203125,
+          "height": 24,
+          "top": 2092.84375,
+          "right": 251.90625,
+          "bottom": 2116.84375,
+          "left": 193.703125
+        }
+      },
+      {
+        "text": "wnt · 2026",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 265.90625,
+          "y": 2098.84375,
+          "width": 72.765625,
+          "height": 12,
+          "top": 2098.84375,
+          "right": 338.671875,
+          "bottom": 2110.84375,
+          "left": 265.90625
+        }
+      }
+    ],
+    "keyboard": null,
+    "reload": "https://wastingnotime.org/"
+  },
+  {
+    "url": "https://wastingnotime.org/sliding-tasks/?lang=en",
+    "data": [
+      {
+        "text": "↗\nSliding Tasks",
+        "color": "rgb(35, 31, 32)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 15.5033131267997,
+        "name": "Sliding Tasks home",
+        "rect": {
+          "x": 16,
+          "y": 20,
+          "width": 171.28125,
+          "height": 32,
+          "top": 20,
+          "right": 187.28125,
+          "bottom": 52,
+          "left": 16
+        }
+      },
+      {
+        "text": "Português",
+        "color": "rgb(35, 31, 32)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 15.5033131267997,
+        "name": null,
+        "rect": {
+          "x": 232.703125,
+          "y": 25.421875,
+          "width": 75.46875,
+          "height": 21.140625,
+          "top": 25.421875,
+          "right": 308.171875,
+          "bottom": 46.5625,
+          "left": 232.703125
+        }
+      },
+      {
+        "text": "Privacy",
+        "color": "rgb(35, 31, 32)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 15.5033131267997,
+        "name": null,
+        "rect": {
+          "x": 320.171875,
+          "y": 25.421875,
+          "width": 53.828125,
+          "height": 21.140625,
+          "top": 25.421875,
+          "right": 374,
+          "bottom": 46.5625,
+          "left": 320.171875
+        }
+      },
+      {
+        "text": "© 2026 Wasting No Time",
+        "color": "rgb(100, 95, 90)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 6.004467192185707,
+        "name": null,
+        "rect": {
+          "x": 16,
+          "y": 5414.9375,
+          "width": 176.703125,
+          "height": 21.6875,
+          "top": 5414.9375,
+          "right": 192.703125,
+          "bottom": 5436.625,
+          "left": 16
+        }
+      },
+      {
+        "text": "made by WNT",
+        "color": "rgb(100, 95, 90)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 6.004467192185707,
+        "name": "made by WNT — Wasting No Time home",
+        "rect": {
+          "x": 16,
+          "y": 5448.625,
+          "width": 136.65625,
+          "height": 27.6875,
+          "top": 5448.625,
+          "right": 152.65625,
+          "bottom": 5476.3125,
+          "left": 16
+        }
+      },
+      {
+        "text": "made by WNT",
+        "color": "rgb(100, 95, 90)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 6.004467192185707,
+        "name": null,
+        "rect": {
+          "x": 51,
+          "y": 5451.625,
+          "width": 98.65625,
+          "height": 21.6875,
+          "top": 5451.625,
+          "right": 149.65625,
+          "bottom": 5473.3125,
+          "left": 51
+        }
+      },
+      {
+        "text": "Contact",
+        "color": "rgb(35, 31, 32)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 15.5033131267997,
+        "name": null,
+        "rect": {
+          "x": 16,
+          "y": 5496.3125,
+          "width": 54.46875,
+          "height": 21.6875,
+          "top": 5496.3125,
+          "right": 70.46875,
+          "bottom": 5518,
+          "left": 16
+        }
+      },
+      {
+        "text": "Privacy",
+        "color": "rgb(35, 31, 32)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 15.5033131267997,
+        "name": null,
+        "rect": {
+          "x": 96.46875,
+          "y": 5496.3125,
+          "width": 50.703125,
+          "height": 21.6875,
+          "top": 5496.3125,
+          "right": 147.171875,
+          "bottom": 5518,
+          "left": 96.46875
+        }
+      }
+    ],
+    "keyboard": {
+      "focused": true,
+      "outline": "rgb(100, 95, 90) solid 2px",
+      "offset": "3px",
+      "decorative": [
+        ""
+      ],
+      "destination": "https://wastingnotime.org/"
+    },
+    "reload": "https://wastingnotime.org/"
+  },
+  {
+    "url": "https://wastingnotime.org/sliding-tasks/pt-br/",
+    "data": [
+      {
+        "text": "↗\nSliding Tasks",
+        "color": "rgb(35, 31, 32)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 15.5033131267997,
+        "name": "Página inicial do Sliding Tasks",
+        "rect": {
+          "x": 16,
+          "y": 20,
+          "width": 171.28125,
+          "height": 32,
+          "top": 20,
+          "right": 187.28125,
+          "bottom": 52,
+          "left": 16
+        }
+      },
+      {
+        "text": "English",
+        "color": "rgb(35, 31, 32)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 15.5033131267997,
+        "name": null,
+        "rect": {
+          "x": 222.625,
+          "y": 25.421875,
+          "width": 53.359375,
+          "height": 21.140625,
+          "top": 25.421875,
+          "right": 275.984375,
+          "bottom": 46.5625,
+          "left": 222.625
+        }
+      },
+      {
+        "text": "Privacidade",
+        "color": "rgb(35, 31, 32)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 15.5033131267997,
+        "name": null,
+        "rect": {
+          "x": 287.984375,
+          "y": 25.421875,
+          "width": 86.015625,
+          "height": 21.140625,
+          "top": 25.421875,
+          "right": 374,
+          "bottom": 46.5625,
+          "left": 287.984375
+        }
+      },
+      {
+        "text": "© 2026 Wasting No Time",
+        "color": "rgb(100, 95, 90)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 6.004467192185707,
+        "name": null,
+        "rect": {
+          "x": 16,
+          "y": 5790.640625,
+          "width": 176.703125,
+          "height": 21.6875,
+          "top": 5790.640625,
+          "right": 192.703125,
+          "bottom": 5812.328125,
+          "left": 16
+        }
+      },
+      {
+        "text": "feito por WNT",
+        "color": "rgb(100, 95, 90)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 6.004467192185707,
+        "name": "feito por WNT — página inicial da Wasting No Time",
+        "rect": {
+          "x": 16,
+          "y": 5824.328125,
+          "width": 134.46875,
+          "height": 27.6875,
+          "top": 5824.328125,
+          "right": 150.46875,
+          "bottom": 5852.015625,
+          "left": 16
+        }
+      },
+      {
+        "text": "feito por WNT",
+        "color": "rgb(100, 95, 90)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 6.004467192185707,
+        "name": null,
+        "rect": {
+          "x": 51,
+          "y": 5827.328125,
+          "width": 96.46875,
+          "height": 21.6875,
+          "top": 5827.328125,
+          "right": 147.46875,
+          "bottom": 5849.015625,
+          "left": 51
+        }
+      },
+      {
+        "text": "Contato",
+        "color": "rgb(35, 31, 32)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 15.5033131267997,
+        "name": null,
+        "rect": {
+          "x": 16,
+          "y": 5872.015625,
+          "width": 55.34375,
+          "height": 21.6875,
+          "top": 5872.015625,
+          "right": 71.34375,
+          "bottom": 5893.703125,
+          "left": 16
+        }
+      },
+      {
+        "text": "Privacidade",
+        "color": "rgb(35, 31, 32)",
+        "background": "rgb(255, 248, 243)",
+        "ratio": 15.5033131267997,
+        "name": null,
+        "rect": {
+          "x": 97.34375,
+          "y": 5872.015625,
+          "width": 81.265625,
+          "height": 21.6875,
+          "top": 5872.015625,
+          "right": 178.609375,
+          "bottom": 5893.703125,
+          "left": 97.34375
+        }
+      }
+    ],
+    "keyboard": {
+      "focused": true,
+      "outline": "rgb(100, 95, 90) solid 2px",
+      "offset": "3px",
+      "decorative": [
+        ""
+      ],
+      "destination": "https://wastingnotime.org/"
+    },
+    "reload": "https://wastingnotime.org/"
+  },
+  {
+    "url": "https://wastingnotime.org/wishlist/",
+    "data": [
+      {
+        "text": "wishlist",
+        "color": "rgb(156, 255, 170)",
+        "background": "rgba(5, 7, 6, 0.7)",
+        "ratio": 16.641142539060805,
+        "name": "Wasting No Time Wishlist home",
+        "rect": {
+          "x": 20,
+          "y": 17.5,
+          "width": 100.421875,
+          "height": 32,
+          "top": 17.5,
+          "right": 120.421875,
+          "bottom": 49.5,
+          "left": 20
+        }
+      },
+      {
+        "text": "your data",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgba(5, 7, 6, 0.7)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 284.140625,
+          "y": 28,
+          "width": 50.046875,
+          "height": 11,
+          "top": 28,
+          "right": 334.1875,
+          "bottom": 39,
+          "left": 284.140625
+        }
+      },
+      {
+        "text": "admin",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgba(5, 7, 6, 0.7)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 342.1875,
+          "y": 28,
+          "width": 27.8125,
+          "height": 11,
+          "top": 28,
+          "right": 370,
+          "bottom": 39,
+          "left": 342.1875
+        }
+      },
+      {
+        "text": "made by WNT",
+        "color": "rgb(156, 255, 170)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 16.641142539060805,
+        "name": "made by WNT — Wasting No Time home",
+        "rect": {
+          "x": 20,
+          "y": 1314.921875,
+          "width": 136.421875,
+          "height": 32,
+          "top": 1314.921875,
+          "right": 156.421875,
+          "bottom": 1346.921875,
+          "left": 20
+        }
+      },
+      {
+        "text": "made by WNT",
+        "color": "rgb(156, 255, 170)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 16.641142539060805,
+        "name": null,
+        "rect": {
+          "x": 61,
+          "y": 1322.921875,
+          "width": 92.421875,
+          "height": 16,
+          "top": 1322.921875,
+          "right": 153.421875,
+          "bottom": 1338.921875,
+          "left": 61
+        }
+      },
+      {
+        "text": "community signal → wnt judgment → shipped work",
+        "color": "rgb(146, 156, 149)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 7.13011425037843,
+        "name": null,
+        "rect": {
+          "x": 20,
+          "y": 1366.921875,
+          "width": 307.046875,
+          "height": 11,
+          "top": 1366.921875,
+          "right": 327.046875,
+          "bottom": 1377.921875,
+          "left": 20
+        }
+      },
+      {
+        "text": "→",
+        "color": "rgb(156, 255, 170)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 16.641142539060805,
+        "name": null,
+        "rect": {
+          "x": 133.46875,
+          "y": 1366.921875,
+          "width": 6.6875,
+          "height": 11,
+          "top": 1366.921875,
+          "right": 140.15625,
+          "bottom": 1377.921875,
+          "left": 133.46875
+        }
+      },
+      {
+        "text": "→",
+        "color": "rgb(156, 255, 170)",
+        "background": "rgb(5, 7, 6)",
+        "ratio": 16.641142539060805,
+        "name": null,
+        "rect": {
+          "x": 233.59375,
+          "y": 1366.921875,
+          "width": 6.6875,
+          "height": 11,
+          "top": 1366.921875,
+          "right": 240.28125,
+          "bottom": 1377.921875,
+          "left": 233.59375
+        }
+      }
+    ],
+    "keyboard": {
+      "focused": true,
+      "outline": "rgb(156, 255, 170) solid 2px",
+      "offset": "3px",
+      "decorative": [
+        ""
+      ],
+      "destination": "https://wastingnotime.org/"
+    },
+    "reload": "https://wastingnotime.org/"
+  },
+  {
+    "githubDark": {
+      "theme": "auto",
+      "background": "rgb(13, 17, 23)"
+    }
+  }
+]
