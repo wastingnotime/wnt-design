@@ -7,7 +7,11 @@ Tracking: [WNT-166](https://linear.app/wastingnotime/issue/WNT-166).
 WNT-160 has since produced the selected [Forward W v1.0.0 kit](identity/README.md)
 and [local validation](identity/validation-v1.0.0.md). The original blocker snapshot
 below is historical; identity selection and kit preparation are now resolved.
-The five surface rollouts and final deployed audit remain outstanding.
+The [WNT-165 YouTube rollout](identity/wnt-165/README.md) has now published
+Forward W v1.0.0, recorded Studio device-safe crops, and retained the two
+historical purple thumbnails by explicit editorial decision. Physical-device
+and final cross-surface checks remain with WNT-166. Other rollout statuses
+require fresh verification.
 
 ## Initial readiness snapshot — 2026-10-15
 

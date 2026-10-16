@@ -104,10 +104,10 @@ overlays before publishing. The white/dark 150px transparent watermark variants
 must be chosen for the video background and kept subordinate to content. YouTube
 currently requires square watermarks at least 150px and below 1 MB; both qualify.
 
-Historical purple thumbnails remain unchanged by this kit. WNT-165 must record
-whether to retain or replace those particular thumbnails, with affected URLs.
-That editorial decision is still open. Do not reupload historical videos solely
-for branding.
+Historical purple thumbnails are retained as historical artwork. The
+[WNT-165 rollout record](wnt-165/README.md) lists the affected URLs, rationale,
+uploaded asset hashes and Studio crop evidence. Do not reupload historical
+videos solely for branding.
 
 ## Ownership, compatibility and rollout
 
